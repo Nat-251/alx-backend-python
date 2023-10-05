@@ -31,12 +31,3 @@ array = (12, 72, 91)
 zoom_2x = zoom_array(array)
 
 zoom_3x = zoom_array(array, 3)
-
-# :man: Author and Credits.
-This project was done by [SE. Natnael Gizachew](https://github.com/Nat-251). Feel free to get intouch with me;
-
-:iphone: WhatsApp [+251923599192](https://wa.me/251923599192)
-
-:email: Email [natygizachew@gmail.com](mailto:natygizachew@gmail.com)
-
-:thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
